@@ -8,11 +8,12 @@ The details which are shown in the main section are given below:
     - Genres
     - Status
     - Show Type
+    
 However there are tabs to display other details such as:
-- Episodes
-- Cast
-- Crew
-- Gallery
+    - Episodes
+    - Cast
+    - Crew
+    - Gallery
 
 ## Installations
 
